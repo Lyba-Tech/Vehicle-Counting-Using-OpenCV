@@ -1,6 +1,6 @@
-![alt text](image.png)
-
 ### Vehicle Counting Using OpenCV
+
+![Uploading Demo.png…]()
 
 This project demonstrates a vehicle counting system using OpenCV and background subtraction techniques. The goal is to detect and count vehicles in a video stream by analyzing frame-by-frame changes. Here's a breakdown of the theory and methodology used:
 
